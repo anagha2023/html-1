@@ -1,0 +1,28 @@
+body{
+    background-image: url(./Images/images\ \(1\).jpeg);
+    background-size: cover;
+}
+header{
+    background-color: black;
+}
+#logo{
+    margin-left: 9%;
+}
+.navigation{
+    float: right;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.navigation a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-decoration: none;
+    border-style: groove;
+    border: 2px solid white;
+    padding: 10px;
+}
+.navigation a:hover{
+    background-color:white;
+    color: black;
+}
+
